@@ -1,0 +1,2 @@
+- in Inhalten (Videos Raids Dungeons außerhalb des kampfes) soll fenster nicht aufploppen sobald wieder in offener welt dann aufploppen
+oder nur bei Login einmalig
