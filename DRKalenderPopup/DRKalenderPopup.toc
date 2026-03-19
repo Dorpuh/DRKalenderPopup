@@ -1,8 +1,0 @@
-## Interface: 120001
-## Title: DRKalenderPopup
-## Notes: Zeigt beim Login ein deutsches Popup für ausstehende Kalenderereignisse der Gilde Darkness Rising.
-## Author: Abgedropst
-## Version: 1.0.0
-## SavedVariables: DRKalenderPopupDB
-
-DRKalenderPopup.lua
